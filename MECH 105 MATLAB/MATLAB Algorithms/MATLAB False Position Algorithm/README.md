@@ -1,4 +1,4 @@
-#False Position Algorithm
+# False Position Algorithm
 
 falsePosition finds the root of a function using false position method.
 
